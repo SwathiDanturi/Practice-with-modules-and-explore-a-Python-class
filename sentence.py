@@ -1,10 +1,11 @@
 """
 Practice with modules and explore a Python class.
+File: sentence.py
 Initial developers: COMP 801 instructors
 Created: February 2024
-Developer: enter your name
-Collaborator(s): enter your collaborator(s) names
-Date: enter date when you start working on it
+Developer: Swathi
+Collaborator(s):
+Date: 9/12/2024
 """
 
 

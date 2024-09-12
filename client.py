@@ -1,9 +1,9 @@
 """
 File: client.py
 Initial developers: COMP 801 instructors
-Developer:
+Developer: Swathi
 Collaborator(s):
-Date:
+Date: 9/12/2024
 """
 from sentence import Sentence
 

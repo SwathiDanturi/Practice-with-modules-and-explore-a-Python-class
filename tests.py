@@ -1,10 +1,11 @@
 """
 Test Sentence methods.
+File: tests.py
 Initial developers: COMP 801 Instructors
 Created: February 2024
-Developer(s): enter your name
-Conllaborator(s): enter your collaborator(s) name(s)
-Date: enter date when you started working on it
+Developer(s): Swathi
+Conllaborator(s):
+Date: 9/12/2024
 """
 import pytest
 
