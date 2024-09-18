@@ -12,7 +12,11 @@ def main():
     """
     Check the functionality of `Sentence` class.
     """
-    s_obj = Sentence('just chekcing')
+    s_obj = Sentence('Welcome to the week 3 class, assignment 2 is submitted')
+    wordslist = ['the', 'week']
+    s_obj.filter_words(wordslist)
+    print(s_obj.sentence)
+    s_obj.only_integers()
     print(s_obj.sentence)
 
 
