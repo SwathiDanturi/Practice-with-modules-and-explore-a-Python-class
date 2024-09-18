@@ -69,3 +69,8 @@ class Sentence:
         Hint: Generate a list of words from `self.sentence` using the str
         split() method.
         """
+        result_list = []
+        for string in self.sentence.split():
+            if string not in word_lst:
+                result_list.append(string)
+        self.sentence = " ".join(result_list)
