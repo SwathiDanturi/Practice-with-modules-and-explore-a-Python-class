@@ -1,6 +1,6 @@
 """
 Test Sentence methods.
-File: tests.py
+File: test_functions.py
 Initial developers: COMP 801 Instructors
 Created: February 2024
 Developer(s): Swathi
@@ -29,7 +29,7 @@ def test_only_words_4_1_1():
     Test sentence that has 4 words, one of which is an integer, and another
     one has digits and other characters.
     """
-    test_sentence = 'Welcome to the 1st Semester of Fall 2024'
+    test_sentence = '1st Semester Fall 2024'
     s_obj = Sentence(test_sentence)
     expected = '2024'
     s_obj.only_integers()
